@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @praisej04
-- 👀 I’m interested in AI and UX/UI design
+- 👀 I’m interested in Infomation Technology
 - 🌱 I’m currently studying Computer Information Systems
 - 😄 Pronouns: She/Her
 
