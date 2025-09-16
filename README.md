@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @praisej04
-- 👀 I’m interested in Infomation Technology
-- 🌱 I’m currently studying Computer Information Systems
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently studying Software Systems
 - 😄 Pronouns: She/Her
 
 <!---
