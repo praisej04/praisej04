@@ -1,4 +1,5 @@
 Hi, I’m Praise :)
+
 Pronouns: She/Her
 
 I am a second year Software Systems student interested in all things Tech!
